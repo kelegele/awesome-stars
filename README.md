@@ -164,7 +164,7 @@
 - [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
 - [Tencent-TDS/KuiklyUI](https://github.com/Tencent-TDS/KuiklyUI) - A Kotlin Multiplatform UI framework from Tencent TDS — high-performance, one codebase for six platforms, with dynamic delivery.
 - [razaghimahdi/Shopping-By-KMP](https://github.com/razaghimahdi/Shopping-By-KMP) - This is a cross-platform application that is built using Jetpack Compose Multiplatform, a declarative framework for sharing UIs across multiple platforms with Kotlin.
-- [xxfast/NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP) - A KMP template of the New York Times App using Compose multiplatform for Android, Desktop, iOS and Web
+- [xxfast/NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP) - A KMP template of the New York Times App for Android, Desktop, iOS, Windows and Web
 - [4o4E/EClean](https://github.com/4o4E/EClean) - 基于BukkitAPI的清理插件
 - [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
 
