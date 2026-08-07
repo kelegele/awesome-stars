@@ -83,6 +83,7 @@
 
 ## HTML
 
+- [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) - Oh-My-PM - Product Manager AI Agent Workflow System via Claude Code Skills
 - [vibe-motion/auto-motion](https://github.com/vibe-motion/auto-motion) - Automated SRT-to-motion workflow with Codex cli + Claude Code with any LLM
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
