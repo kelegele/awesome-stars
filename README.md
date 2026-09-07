@@ -87,6 +87,7 @@
 - [isjiamu/gzh-design-skill](https://github.com/isjiamu/gzh-design-skill) - 把 Markdown 一键排成可直接粘进公众号编辑器的精致 HTML —— 6 套精选主题 + 主题生成器 + 双关卡校验。An AI-agent skill that turns Markdown into paste-ready WeChat article HTML.
 - [kelegele/oh-my-pm](https://github.com/kelegele/oh-my-pm) - Oh-My-PM - Product Manager AI Agent Workflow System via Claude Code Skills
 - [vibe-motion/auto-motion](https://github.com/vibe-motion/auto-motion) - Automated SRT-to-motion workflow with Codex cli + Claude Code with any LLM
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [nexu-io/html-video](https://github.com/nexu-io/html-video) - Programmatic video for coding agents — HTML to video on your laptop. Turn HTML, CSS & data into real MP4s with pluggable render engines, 21 templates, AI soundtrack. Apache-2.0, no per-render fees. An
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [lewislulu/html-ppt-skill](https://github.com/lewislulu/html-ppt-skill) - HTML PPT Studio — AgentSkill with 24 themes, 31 layouts, 20+ animations for building professional HTML presentations
@@ -214,7 +215,7 @@
 
 - [nutllwhy/whiteboard-book-video-skill](https://github.com/nutllwhy/whiteboard-book-video-skill) - 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染
 - [Hoper-J/AI-Guide-and-Demos-zh_CN](https://github.com/Hoper-J/AI-Guide-and-Demos-zh_CN) - 这是一份入门AI/LLM大模型的逐步指南，包含教程和演示代码，带你从API走进本地大模型部署和微调，代码文件会提供Kaggle或Colab在线版本，即便没有显卡也可以进行学习。项目中还开设了一个小型的代码游乐场🎡，你可以尝试在里面实验一些有意思的AI脚本。同时，包含李宏毅 (HUNG-YI LEE）2024生成式人工智能导论课程的完整中文镜像作业。
-- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - LLM、Agent上手教程
+- [nndl/llm-beginner](https://github.com/nndl/llm-beginner) - 《大模型与智能体》电子书与 6 个编程任务：Transformer、mini-GPT、SFT/DPO、RAG、工具调用与编程智能体。
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
@@ -224,7 +225,6 @@
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [vibe-motion/skills](https://github.com/vibe-motion/skills) - agent skills for vibe motion
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) - TTS with kokoro and onnx runtime
 - [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video produc
@@ -350,7 +350,7 @@
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [xiaochong/hi-kid](https://github.com/xiaochong/hi-kid) - HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.
-- [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - A Kawaii React UI component library
+- [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - A Kawaii React UI component library  一个可爱的 React UI 组件库
 - [zebangeth/PawPal](https://github.com/zebangeth/PawPal) - 一只住在你桌面上的小狗，提醒你休息、喝水、保持专注 | A little dog living on your desktop, reminding you to take breaks, stay hydrated, and keep focused.
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
