@@ -102,6 +102,7 @@
 
 - [Xiao-MoMi/Custom-Crops](https://github.com/Xiao-MoMi/Custom-Crops) - Ultra-customizable planting experience for Minecraft servers
 - [AuthMe/AuthMeReloaded](https://github.com/AuthMe/AuthMeReloaded) - The best authentication plugin for the Bukkit/Spigot API!
+- [lixiaolin94/skills](https://github.com/lixiaolin94/skills) - Collection of AI agent skills for Claude Code
 - [BetterGUI-MC/BetterGUI](https://github.com/BetterGUI-MC/BetterGUI) - Another GUI Plugin
 - [sgtcaze/NametagEdit](https://github.com/sgtcaze/NametagEdit) - Simple plugin to give players custom nametags
 - [Rollczi/LiteCommands](https://github.com/Rollczi/LiteCommands) - ☄️ LiteCommands - Command framework for Velocity, Bukkit, Paper, BungeeCord, Minestom, Sponge, Fabric, JDA and future implementations.
@@ -126,7 +127,6 @@
 - [PENGLEI8686/odyssey-plan](https://github.com/PENGLEI8686/odyssey-plan) - Odyssey Plan life-design facilitator / 斯坦福奥德赛计划 AI 引导师
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [zanwei/design-dna](https://github.com/zanwei/design-dna) - Turn reference UIs (images, screenshots, URLs) into quantified Design DNA JSON—tokens, qualitative style, visual effects—then generate matching UI from your content.
-- [lixiaolin94/skills](https://github.com/lixiaolin94/skills) - Collection of AI agent skills for Claude Code
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) - Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。
@@ -396,7 +396,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Your AI workspace for models, agents, and productivity.
 - [unyt-org/uix](https://github.com/unyt-org/uix) - The UIX Framework
 - [Voxelum/x-minecraft-launcher](https://github.com/Voxelum/x-minecraft-launcher) - An Open Source Minecraft Launcher with Modern UX. Provides a Disk Efficient way to manage all your Mods!
 - [MCSManager/MCSManager](https://github.com/MCSManager/MCSManager) - Quick deployment, distributed, multi-user, modern management panel for Minecraft and Steam game servers  /  快速安装，分布式架构，多用户，现代化的 Minecraft 和 Steam 游戏服务器管理面板
