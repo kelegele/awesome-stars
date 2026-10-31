@@ -31,7 +31,6 @@
 
 ## C
 
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [SoftEtherVPN/SoftEtherVPN](https://github.com/SoftEtherVPN/SoftEtherVPN) - Cross-platform multi-protocol VPN software. Pull requests are welcome. The stable version is available at https://github.com/SoftEtherVPN/SoftEtherVPN_Stable.
 
 ## C#
@@ -183,7 +182,6 @@
 
 ## Others
 
-- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) - 
 - [Kimberlying/watercolor-memory-poster](https://github.com/Kimberlying/watercolor-memory-poster) - 
 - [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) - 
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
@@ -212,10 +210,11 @@
 
 ## Python
 
+- [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) - 
 - [xstongxue/best-skills](https://github.com/xstongxue/best-skills) - 通用高质量 Skills 合集🔥
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [op7418/guizang-product-video-skill](https://github.com/op7418/guizang-product-video-skill) - 归藏 product video skill：复用真实产品组件和设计语言，用代码制作软件更新宣传片。包含分镜文案、原创配乐、动作音效与视频渲染，支持 Claude Code 和 Codex。
-- [adrianpunk/punk-ip-illustrations](https://github.com/adrianpunk/punk-ip-illustrations) - Punk personal IP article illustration Agent Skill
+- [adrianpunk/Punk-IP](https://github.com/adrianpunk/Punk-IP) - Punk personal IP article illustration Agent Skill
 - [jinchenma94/bazi-skill](https://github.com/jinchenma94/bazi-skill) - 四柱八字命理分析
 - [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading) - "Vibe-Trading: Your Personal Trading Agent"
 - [nutllwhy/whiteboard-book-video-skill](https://github.com/nutllwhy/whiteboard-book-video-skill) - 白板火柴人拆书短视频工作流：脚本、分镜、配音、BGM、字幕与 HyperFrames 本地渲染
@@ -308,7 +307,7 @@
 
 ## Rust
 
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode,DeepSeek Harness and more. Only official website: ccswitch.io
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
 - [tw93/Kaku](https://github.com/tw93/Kaku) - A fast, good-looking, AI-friendly terminal for the Mac.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
@@ -368,6 +367,7 @@
 - [xiaochong/hi-kid](https://github.com/xiaochong/hi-kid) - HiKid - Your AI English Pal. A desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.
 - [guokaigdg/animal-island-ui](https://github.com/guokaigdg/animal-island-ui) - A Kawaii React UI component library  一个可爱的 React UI  组件库
 - [zebangeth/PawPal](https://github.com/zebangeth/PawPal) - 一只住在你桌面上的小狗，提醒你休息、喝水、保持专注 | A little dog living on your desktop, reminding you to take breaks, stay hydrated, and keep focused.
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% loca
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
